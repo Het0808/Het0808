@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw2qeuW33VU0iqLFtzrONlT5&ust=1683709842114000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDHw4ry5_4CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=het0808&label=Profile%20views&color=0e75b6&style=flat" alt="het0808" /> </p>
 
